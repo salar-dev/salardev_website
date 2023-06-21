@@ -1,8 +1,23 @@
-# Getting Started with Create React App
+# Getting Started with SalarDev WebSite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Salar Dev](https://salardev.com/).
 
 ## Available Scripts
+
+In the project directory, you can run:
+
+### `git clone https://github.com/salar-dev/salardev_website.git`
+
+## Contact Me
+
+### Instagram
+Follow Me On [Instagram](https://salardev.com/).
+
+### Facebook
+Add Me On [Facebook](https://www.facebook.com/salar1brefki).
+
+
+<!-- ## Available Scripts
 
 In the project directory, you can run:
 
@@ -67,4 +82,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
