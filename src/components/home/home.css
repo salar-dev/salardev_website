@@ -1,0 +1,103 @@
+.home {
+    width: 100%;
+}
+
+.home_container {
+    padding: 9% 14%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left_side {
+    display: flex;
+    flex-direction: column;
+    width: 32vw;
+}
+
+.left_side h3 {
+    color: #FFF;
+    font-size: 2.5vw;
+    margin: 0;
+}
+
+.left_side h1 {
+    color: #21BD10;
+    font-size: 4.5vw;
+    margin: 0;
+    font-weight: 500;
+    letter-spacing: -3px;
+
+    overflow: hidden;
+    border-right: .15em solid #01ac1d;
+    white-space: nowrap;
+    color: #01ac1d;
+    animation: typing 2s steps(30, end), blink-caret .75s step-end infinite;
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+
+    from,
+    to {
+        border-color: transparent
+    }
+
+    50% {
+        border-color: #01ac1d;
+    }
+}
+
+/* The typing effect */
+@keyframes typing {
+    from {
+        width: 0
+    }
+
+    to {
+        width: 100%
+    }
+}
+
+.left_side p {
+    color: #AFAFAF;
+}
+
+.right_side img {
+    width: 23vw;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 10vw;
+    padding: 10px;
+    background: #01ac1d;
+    margin-top: 15px;
+    border-radius: 5px;
+    color: #000000;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: #13ee37;
+}
+
+.button h4 {
+    font-size: 1.3vw;
+}
+
+.sendIcon {
+    font-size: 1.5vw;
+}
+
+.title:hover {
+    box-shadow: none !important;
+}
+
+.title {
+    box-shadow: none !important;
+}

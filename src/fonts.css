@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OCRMain';
+    src: url('./assets//fonts/OCR-ABT.ttf') format('truetype');
+    /* Add additional src lines for other file formats if needed */
+    /* Example for WOFF: */
+    /* src: url('./fonts/MyCustomFont.woff') format('woff'); */
+    /* Example for WOFF2: */
+    /* src: url('./fonts/MyCustomFont.woff2') format('woff2'); */
+  }

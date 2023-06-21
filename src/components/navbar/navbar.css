@@ -1,0 +1,18 @@
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    background: #0D0D0D;
+    -webkit-box-shadow: -5px -15px 26px 3px #21BD10;
+    -moz-box-shadow: -5px -15px 26px 3px #21BD10;
+    box-shadow: -5px -15px 26px 3px #21BD10;
+}
+
+.navbar_container{
+    padding: 10px;
+}
+
+.logo img{
+    width: 70px;
+}
